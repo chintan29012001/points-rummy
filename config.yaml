@@ -1,0 +1,112 @@
+assets_path:
+  sounds:
+    connected: "assets/sounds/knife_propelled.mp3"
+    card_drawn: "assets/sounds/target_destroyed.mp3"
+    first_pass: ""
+    knock: ""
+    gin: ""
+    new_meld: ""
+    card_discarded: ""
+    win_knock: ""
+    win_game: ""
+  images:
+    logo: "assets/images/logo.png"
+    background_ingame: "assets/images/background/bg1.jpg"
+    background_gameover: "assets/images/background/bg2.png"
+    characters:
+      c1: "assets/images/characters/(1).png"
+      c2: "assets/images/characters/(2).png"
+      c3: "assets/images/characters/(3).png"
+      c4: "assets/images/characters/(4).png"
+      c5: "assets/images/characters/(5).png"
+      c6: "assets/images/characters/(6).png"
+      c7: "assets/images/characters/(7).png"
+      c8: "assets/images/characters/(8).png"
+      c9: "assets/images/characters/(9).png"
+      c10: "assets/images/characters/(10).png"
+      c11: "assets/images/characters/(11).png"
+      c12: "assets/images/characters/(12).png"
+      c13: "assets/images/characters/(13).png"
+      c14: "assets/images/characters/(14).png"
+      c15: "assets/images/characters/(15).png"
+      c16: "assets/images/characters/(16).png"
+      c17: "assets/images/characters/(17).png"
+      c18: "assets/images/characters/(18).png"
+      c19: "assets/images/characters/(19).png"
+      c20: "assets/images/characters/(20).png"
+    card:
+      cardAC: "assets/images/cards/AC.png"
+      card2C: "assets/images/cards/2C.png"
+      card3C: "assets/images/cards/3C.png"
+      card4C: "assets/images/cards/4C.png"
+      card5C: "assets/images/cards/5C.png"
+      card6C: "assets/images/cards/6C.png"
+      card7C: "assets/images/cards/7C.png"
+      card8C: "assets/images/cards/8C.png"
+      card9C: "assets/images/cards/9C.png"
+      card10C: "assets/images/cards/10C.png"
+      cardJC: "assets/images/cards/JC.png"
+      cardQC: "assets/images/cards/QC.png"
+      cardKC: "assets/images/cards/KC.png"
+      cardAD: "assets/images/cards/AD.png"
+      card2D: "assets/images/cards/2D.png"
+      card3D: "assets/images/cards/3D.png"
+      card4D: "assets/images/cards/4D.png"
+      card5D: "assets/images/cards/5D.png"
+      card6D: "assets/images/cards/6D.png"
+      card7D: "assets/images/cards/7D.png"
+      card8D: "assets/images/cards/8D.png"
+      card9D: "assets/images/cards/9D.png"
+      card10D: "assets/images/cards/10D.png"
+      cardJD: "assets/images/cards/JD.png"
+      cardQD: "assets/images/cards/QD.png"
+      cardKD: "assets/images/cards/KD.png"
+      cardAH: "assets/images/cards/AH.png"
+      card2H: "assets/images/cards/2H.png"
+      card3H: "assets/images/cards/3H.png"
+      card4H: "assets/images/cards/4H.png"
+      card5H: "assets/images/cards/5H.png"
+      card6H: "assets/images/cards/6H.png"
+      card7H: "assets/images/cards/7H.png"
+      card8H: "assets/images/cards/8H.png"
+      card9H: "assets/images/cards/9H.png"
+      card10H: "assets/images/cards/10H.png"
+      cardJH: "assets/images/cards/JH.png"
+      cardQH: "assets/images/cards/QH.png"
+      cardKH: "assets/images/cards/KH.png"
+      cardAS: "assets/images/cards/AS.png"
+      card2S: "assets/images/cards/2S.png"
+      card3S: "assets/images/cards/3S.png"
+      card4S: "assets/images/cards/4S.png"
+      card5S: "assets/images/cards/5S.png"
+      card6S: "assets/images/cards/6S.png"
+      card7S: "assets/images/cards/7S.png"
+      card8S: "assets/images/cards/8S.png"
+      card9S: "assets/images/cards/9S.png"
+      card10S: "assets/images/cards/10S.png"
+      cardJS: "assets/images/cards/JS.png"
+      cardQS: "assets/images/cards/QS.png"
+      cardKS: "assets/images/cards/KS.png"
+      card1R: "assets/images/cards/red_back.png"
+    target: "assets/images/target/wood1.png"
+    knife_count:
+      foreground: "assets/images/knife-count/foreground.png"
+      background: "assets/images/knife-count/background.png"
+    player:
+      p1: "assets/images/boss/apple-pie.png"
+      p2: "assets/images/boss/moon.png"
+general_settings:
+  sprite_scaling: 0.33
+  meld_sprite_scaling: 0.2
+  screen_width: 1440
+  screen_height: 900 
+  screen_title: "Points rummy"
+  game_over_delay: 1
+  max_knife_count: 10
+  min_knife_count: 5
+knife_settings:
+  speed: 70
+target_settings:
+  rotation_speed: 2 
+
+#pic of cards taken from http://acbl.mybigcommerce.com/52-playing-cards/
